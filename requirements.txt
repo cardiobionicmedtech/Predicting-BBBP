@@ -3,3 +3,15 @@ mordred
 shap
 lime
 imblearn
+streamlit
+pandas
+numpy
+torch
+matplotlib
+seaborn
+plotly
+tqdm
+scikit-learn
+joblib
+pillow
+huggingface_hub
